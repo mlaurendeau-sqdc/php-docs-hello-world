@@ -1,6 +1,6 @@
 <?php
 
-echo "Hello World!";
+//echo "Hello World!";
 
 $my_var = file_get_contents('http://www.w3schools.com');
 
